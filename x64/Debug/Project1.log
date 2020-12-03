@@ -1,0 +1,13 @@
+﻿  Game.cpp
+C:\Users\xc\source\repos\Project1\Game.cpp(304,55): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\xc\source\repos\Project1\Game.cpp(304,36): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\xc\source\repos\Project1\Game.cpp(310,55): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\xc\source\repos\Project1\Game.cpp(310,36): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+  mainmenu.cpp
+  Point.cpp
+  源.cpp
+  SplashScreen.cpp
+  正在生成代码...
+C:\Users\xc\source\repos\Project1\Game.cpp(268): warning C4172: 返回局部变量或临时变量的地址: currentEvent
+C:\Users\xc\source\repos\Project1\Game.cpp(406): warning C4715: “Game::judge”: 不是所有的控件路径都返回值
+sfml-graphics-d.lib(sfml-graphics-d-2.dll) : fatal error LNK1112: 模块计算机类型“x86”与目标计算机类型“x64”冲突

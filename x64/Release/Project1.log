@@ -1,0 +1,10 @@
+﻿  Game.cpp
+C:\Users\xc\source\repos\Project1\Game.cpp(304,55): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\xc\source\repos\Project1\Game.cpp(304,36): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\xc\source\repos\Project1\Game.cpp(310,55): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\xc\source\repos\Project1\Game.cpp(310,36): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+  mainmenu.cpp
+  Point.cpp
+  源.cpp
+  SplashScreen.cpp
+sfml-graphics.lib(sfml-graphics-2.dll) : fatal error LNK1112: 模块计算机类型“x86”与目标计算机类型“x64”冲突
